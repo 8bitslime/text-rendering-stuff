@@ -1,0 +1,13 @@
+[package]
+name = "oglmw"
+version = "0.1.0"
+authors = ["<8bitslime@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gl = "0.14.0"
+glutin = "0.26.0"
+
+fontdue = "0.5"
+stretch = "0.3"
+rect_packer = "0.2"
